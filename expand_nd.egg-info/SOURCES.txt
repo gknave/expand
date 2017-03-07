@@ -1,0 +1,8 @@
+expand_nd/__init__.py
+expand_nd/expansion.py
+expand_nd.egg-info/PKG-INFO
+expand_nd.egg-info/SOURCES.txt
+expand_nd.egg-info/dependency_links.txt
+expand_nd.egg-info/not-zip-safe
+expand_nd.egg-info/requires.txt
+expand_nd.egg-info/top_level.txt

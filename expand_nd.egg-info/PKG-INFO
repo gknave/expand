@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: expand-nd
+Version: 0.1
+Summary: Scratch package for methods to expand an n-dimensional ODE.
+Home-page: https://github.com/gknave/expand_nd
+Author: Gary Nave
+Author-email: gknave@vt.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
